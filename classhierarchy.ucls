@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="application.VirtualNotebookApp" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/application/VirtualNotebookApp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="801" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="view.noteTakingScreen.NoteTakingFrame" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/NoteTakingFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1549" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="model.ChartingNote" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/model/ChartingNote.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="27" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="view.userProfileScreen.UserProfileFrame" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/userProfileScreen/UserProfileFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1023" y="852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="view.homeScreen.HomeFrame" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/homeScreen/HomeFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1067" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="view.noteTakingScreen.CornellPanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/CornellPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1482" y="973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="view.noteTakingScreen.OutlinePanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/OutlinePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1329" y="973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="view.calendarScreen.CalendarFrame" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/calendarScreen/CalendarFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="639" y="858"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="model.Note" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/model/Note.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="374" y="338"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="view.homeScreen.NoteListingsPanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/homeScreen/NoteListingsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1179" y="645"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="view.homeScreen.TitlePanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/homeScreen/TitlePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="994" y="648"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="view.noteTakingScreen.MenuBar" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/MenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1563" y="1185"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="view.userProfileScreen.GraphPanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/userProfileScreen/GraphPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1026" y="962"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="controller.AppController" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/controller/AppController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="807" y="322"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="view.noteTakingScreen.Pomodoro" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/Pomodoro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1564" y="1081"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="model.CornellNote" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/model/CornellNote.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="201" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="view.noteTakingScreen.ChartingPanel.ChartingPanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/ChartingPanel/ChartingPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1635" y="973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="controller.Loader" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/controller/Loader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1058" y="324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="model.BoxingNote" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/model/BoxingNote.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="368" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="model.OutlineNote" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/model/OutlineNote.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="536" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="view.noteTakingScreen.BoxingPanel" project="CulminatingICS4U" 
+    file="/CulminatingICS4U/src/view/noteTakingScreen/BoxingPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1787" y="973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
