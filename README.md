@@ -2,12 +2,12 @@
 Notivity provides an advanced note-taking functionality for students. Notivity has various layouts(templates) for note-taking purposes. Through its unique feature of  implementing a note taking system combined with productivity techniques such as pomodoro and user analytics, it makes student learning experience convenient
 
 * Description:  Notivity provides an advanced note-taking functionality for students. Notivity has various layouts(templates) for note-taking purposes 
- * such as the Cornell method and Boxing method which are scientifically proven to be more productive and effective. Through its unique feature of 
- * implementing a note taking system combined with productivity techniques such as pomodoro and user analytics, it makes student learning experience convenient 
- * and also helps with their overall wellbeing.
+ such as the Cornell method and Boxing method which are scientifically proven to be more productive and effective. Through its unique feature of 
+ implementing a note taking system combined with productivity techniques such as pomodoro and user analytics, it makes student learning experience convenient 
+ and also helps with their overall wellbeing.
  * When application is started, user can see the home screen which has sample note templates created. User can add/remove different note templates to their saved 
- * list of notes. User analytics can be accessed when at least 5 notes are created and saved. This application stores user data(notes created) on file and reads 
- * it every time the application is restarted. 
+ list of notes. User analytics can be accessed when at least 5 notes are created and saved. This application stores user data(notes created) on file and reads 
+it every time the application is restarted. 
  * Added Features:
 
  *  Home Screen:
